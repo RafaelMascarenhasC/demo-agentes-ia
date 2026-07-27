@@ -1,0 +1,18 @@
+# Segredos e arquivos locais (nunca versionar)
+.env
+.ai-jail
+
+# Estado gerado pelo superpowers durante a demo
+.superpowers/
+docs/superpowers/
+
+# Python
+__pycache__/
+*.pyc
+
+# SO / editor
+.DS_Store
+.vscode/
+
+# Cola pessoal de apresentador (anotações de palco) — NÃO publicar
+HANDS_ON_AGENTES_IA.md
